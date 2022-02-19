@@ -1,8 +1,6 @@
 # Hi there, I'm Mrinal! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 
-Computer Science Graduate student.
-AWS Certified Cloud Practitioner and Full stack JavaScript developer (MERN).
-Hobbies: 👨‍💻 🐱 🥋 ⚽ 🥊
+Computer Science Graduate student | AWS Certified Cloud Practitioner | Full stack JavaScript developer (MERN)
 
 ---
 
@@ -18,7 +16,7 @@ Hobbies: 👨‍💻 🐱 🥋 ⚽ 🥊
   <img alt="Angular" src="https://img.shields.io/badge/angular-%2314354C.svg?style=for-the-badge&logo=angular&logoColor=white"/>
 </div>
 
-## :bar_chart:	What about some statistics?
+## :bar_chart:	Some statistics
 <a href="https://github.com/mrynalrai">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrynalrai&theme=great-gatsby&layout=compact&langs_count=10" />
 </a>
