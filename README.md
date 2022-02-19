@@ -1,9 +1,8 @@
-# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hi there, I'm Mrinal! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 
-Computer Science Graduate student at Concordia University. 
-I am a AWS Certified Cloud Practitioner and a Full stack JS developer (MERN stack)
-
-👨‍💻 🐱 🥋 ⚽ 🥊
+Computer Science Graduate student.
+AWS Certified Cloud Practitioner and Full stack JavaScript developer (MERN).
+Hobbies: 👨‍💻 🐱 🥋 ⚽ 🥊
 
 ---
 
