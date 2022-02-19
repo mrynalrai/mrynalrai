@@ -24,7 +24,7 @@ Computer Science Graduate student | AWS Certified Cloud Practitioner | Full stac
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrynalrai&show_icons=true&theme=great-gatsby&line_height=27" alt="Dhananjay's github stats"/>
 </a>
 
-## :link:	Stay in touch
+## :link:	Connect with me
 
 <div align="center">
   <a href="https://twitter.com/McAlooTikky" target="_blank">
