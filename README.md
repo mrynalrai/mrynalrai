@@ -17,12 +17,12 @@ Computer Science Graduate student | AWS Certified Cloud Practitioner | Full stac
 </div>
 
 ## :bar_chart:	Some statistics
-<a href="https://github.com/mrynalrai">
+<!-- <a href="https://github.com/mrynalrai">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrynalrai&theme=great-gatsby&layout=compact&langs_count=10" />
-</a>
-<a href="https://github.com/mrynalrai">
+</a> -->
+<!-- <a href="https://github.com/mrynalrai">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrynalrai&show_icons=true&theme=great-gatsby&line_height=27" alt="Mrinal's github stats"/>
-</a>
+</a> -->
 
 ## :link:	Connect with me
 
