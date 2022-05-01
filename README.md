@@ -27,8 +27,8 @@ Computer Science Graduate student | AWS Certified Cloud Practitioner | Full stac
 ## :link:	Connect with me
 
 <div align="center">
-  <a href="https://twitter.com/McAlooTikky" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/McAlooTikky-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  <a href="https://twitter.com/mrynalrai" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/mrynalrai-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/mrinal-rai-37a33b11a/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
